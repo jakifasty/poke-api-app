@@ -1,6 +1,10 @@
 # Getting Started with Poke API App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is using and API that fetches data from it. The API is https://pokeapi.co/
+
+![image](https://user-images.githubusercontent.com/44364350/218606681-8828751e-c5fb-4e38-a005-1c81a83f6e6c.png)
+
+![image](https://user-images.githubusercontent.com/44364350/218606716-9eb24e68-fce8-4ae7-847f-902672fd5dd0.png)
 
 ## Available Scripts
 
