@@ -40,7 +40,8 @@ function App() {
   return ( //we use <></> to return empty object 
     <>
       <PokemonList pokemon={pokemon}/>
-      <Pagination goToNextPage={goToNextPage} goToPreviousPage={goToPreviousPage}/>
+      <Pagination goToNextPage={nextPageURL ? goToNextPage : null} 
+                  goToPreviousPage={previousPageURL ? goToPreviousPage : null}/>
     </>
   );
 }
